@@ -1,0 +1,6 @@
+{
+  "name": "Odessy Furniture",
+  "description": "Luxury minimal ergonomic furniture, desk electronics, and mobile accessories with smooth animations and Groq AI concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

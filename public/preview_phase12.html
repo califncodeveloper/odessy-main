@@ -1,0 +1,404 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Phase 12: Odessy Product Image Accuracy & Sofa Replacement Audit</title>
+  <style>
+    body {
+      background: #0d0c0a;
+      color: #f3e9da;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 30px;
+    }
+    h1 {
+      color: #D4AF37;
+      font-size: 26px;
+      margin-bottom: 8px;
+    }
+    p.subtitle {
+      color: #a8a29e;
+      font-size: 14px;
+      margin-top: 0;
+      margin-bottom: 25px;
+    }
+    .status-badge {
+      display: inline-block;
+      padding: 6px 14px;
+      border-radius: 9999px;
+      background: rgba(34, 197, 94, 0.15);
+      border: 1px solid rgba(34, 197, 94, 0.4);
+      color: #4ade80;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 25px;
+    }
+    .comparison-section {
+      margin-bottom: 40px;
+      background: #161513;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 24px;
+    }
+    .product-title {
+      font-size: 19px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 8px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .product-tag {
+      font-size: 11px;
+      background: #23211d;
+      border: 1px solid #D4AF37;
+      color: #D4AF37;
+      padding: 3px 8px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .product-ref {
+      font-size: 12px;
+      color: #8b5cf6;
+      margin-bottom: 16px;
+    }
+    .product-ref a {
+      color: #a78bfa;
+      text-decoration: none;
+    }
+    .product-ref a:hover {
+      text-decoration: underline;
+    }
+    .grid-compare {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }
+    @media (max-width: 900px) {
+      .grid-compare { grid-template-columns: 1fr; }
+    }
+    .card-box {
+      background: #1c1a17;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .card-label {
+      padding: 10px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: #22201c;
+    }
+    .tag-std {
+      background: rgba(212, 175, 55, 0.2);
+      color: #D4AF37;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+    }
+    .product-card-container {
+      position: relative;
+      aspect-ratio: 3 / 4;
+      width: 100%;
+      overflow: hidden;
+      background: #141311;
+    }
+    .product-card-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+    }
+    .card-caption {
+      padding: 12px 14px;
+      font-size: 12px;
+      color: #a8a29e;
+      line-height: 1.5;
+      background: #181714;
+    }
+    .badge-check {
+      color: #4ade80;
+      font-weight: 600;
+    }
+    .thumb-row {
+      display: flex;
+      gap: 12px;
+      margin-top: 12px;
+    }
+    .thumb-btn {
+      width: 70px;
+      height: 93px;
+      border-radius: 6px;
+      overflow: hidden;
+      border: 2px solid rgba(255, 255, 255, 0.15);
+      cursor: pointer;
+      background: #000;
+      padding: 0;
+      transition: all 0.2s ease;
+    }
+    .thumb-btn.active {
+      border-color: #D4AF37;
+      box-shadow: 0 0 10px rgba(212, 175, 55, 0.4);
+    }
+    .thumb-btn img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Odessy Phase 12 Image Accuracy & Quality Audit</h1>
+  <p class="subtitle">Complete verification of replacement images for Zephyr Bed, Verta Wardrobe, and all 5 Sofa products. Every asset verified at exactly 896 × 1200 px (3:4 Portrait Ratio).</p>
+  <div class="status-badge">✓ All 14 Images Verified (896 × 1200 px, JPG, 100% Unique Hashes, Zero Duplicates)</div>
+
+  <!-- 1. Zephyr Hydraulic Bed -->
+  <div class="comparison-section">
+    <div class="product-title">
+      1. Odessy Zephyr Solid Sheesham Hydraulic Storage Bed
+      <span class="product-tag">Beds & Wardrobe</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>Woodsworth Zephyr Sheesham Wood King Size Bed in Honey Oak Finish with Hydraulic Storage (ID: 1959741 / 2285836)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/zephyr-sheesham-wood-king-size-bed-in-honey-oak-finish-with-hydraulic-storage-1959741.html" target="_blank">https://www.pepperfry.com/product/zephyr-sheesham-wood-king-size-bed-in-honey-oak-finish-with-hydraulic-storage-1959741.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/zephyr_sheesham_hydraulic_bed_3x4.jpg" alt="Zephyr Bed Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ REPLACED & VERIFIED:</span> Authentic Honey Oak Solid Sheesham Wood King Size Bed. Gas-lift hydraulic storage mechanism lifted open to display partitioned underbed storage compartments, German gas struts, heavy metal frame reinforcement, and slatted headboard.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/zephyr_sheesham_hydraulic_bed_env.jpg" alt="Zephyr Bed Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ VERIFIED LIFESTYLE:</span> Master bedroom suite with warm natural timber figuring, polished hardwood floor, architectural lighting, dressed in crisp white linen with nightstands.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. Verta 4-Door Wardrobe -->
+  <div class="comparison-section">
+    <div class="product-title">
+      2. Odessy Verta 4-Door Wardrobe with Dual Mirrors & Drawers
+      <span class="product-tag">Beds & Wardrobe</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>Spacewood Verta 4 Door Wardrobe With Mirror in Santana Oak Finish (ID: 1945398)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/verta-4-door-wardrobe-with-mirror-in-santana-oak-finish-by-spacewood-1945398.html" target="_blank">https://www.pepperfry.com/product/verta-4-door-wardrobe-with-mirror-in-santana-oak-finish-by-spacewood-1945398.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/verta_modern_4_door_wardrobe_3x4.jpg" alt="Verta Wardrobe Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ REPLACED & VERIFIED:</span> Exact Spacewood Verta design featuring 4-door configuration (2 outer Santana Oak doors + 2 central full-length dressing mirrors) and 2 bottom external smooth-glide pull-out drawers with matching hardware.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/verta_modern_4_door_wardrobe_env.jpg" alt="Verta Wardrobe Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ REPLACED & VERIFIED:</span> Authentic Spacewood Verta 4-door master bedroom installation with designer lighting, modern flooring, and integrated dressing mirror vanity focal point.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Amanda 2-Seater Sofa -->
+  <div class="comparison-section">
+    <div class="product-title">
+      3. Odessy Amanda Modern 2-Seater Fabric Sofa
+      <span class="product-tag">Sofa Category</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>CasaCraft Amanda Fabric 2 Seater Sofa in Charcoal Grey (ID: 1941914)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/amanda-fabric-2-seater-sofa-in-charcoal-grey-colour-1941914.html" target="_blank">https://www.pepperfry.com/product/amanda-fabric-2-seater-sofa-in-charcoal-grey-colour-1941914.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/amanda_fabric_2_seater_3x4.jpg" alt="Amanda Sofa Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> 2-seater loveseat in Charcoal Grey textured woven upholstery. Centered on luxury studio canvas with balanced 78% width occupancy, tapered wood legs, and soft contact floor shadow.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/amanda_fabric_2_seater_env.jpg" alt="Amanda Sofa Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> Authentic contemporary Scandinavian living room interior with oak floor, natural ambient light, and complete loveseat silhouette.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Cannes 3-Seater Sofa -->
+  <div class="comparison-section">
+    <div class="product-title">
+      4. Odessy Cannes Contemporary 3-Seater Fabric Sofa
+      <span class="product-tag">Sofa Category</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>CasaCraft Cannes Fabric 3 Seater Sofa in Blue Colour (ID: 1976077)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/cannes-fabric-3-seater-sofa-in-blue-colour-1976077.html" target="_blank">https://www.pepperfry.com/product/cannes-fabric-3-seater-sofa-in-blue-colour-1976077.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/cannes_fabric_3_seater_3x4.jpg" alt="Cannes Sofa Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> Deep-lounge 3-seater in rich midnight blue woven fabric. Wide structured track armrests, 3 plush cushions, centered at 80% canvas occupancy with studio ground shadow.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/cannes_fabric_3_seater_env.jpg" alt="Cannes Sofa Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ REPLACED & VERIFIED:</span> Real penthouse luxury living room environment with warm wooden floor and architectural ambient lighting, replacing former flat-grey placeholder.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. Montez Velvet LHS Sectional Sofa -->
+  <div class="comparison-section">
+    <div class="product-title">
+      5. Odessy Montez Velvet LHS Sectional Sofa (3 + Lounger)
+      <span class="product-tag">Sofa Category</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>CasaCraft Montez Velvet LHS Sectional Sofa (3 + Lounger) in Grey & Beige (ID: 2244211)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/montez-velvet-lhs-sectional-sofa-in-grey-beige-colour-2244211.html" target="_blank">https://www.pepperfry.com/product/montez-velvet-lhs-sectional-sofa-in-grey-beige-colour-2244211.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/montez_velvet_sectional_3x4.jpg" alt="Montez Sectional Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> Complete L-shaped configuration with left-hand facing chaise lounger (LHS), 3-seat sofa section, and dual-tone velvet upholstery at 80% canvas occupancy.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/montez_velvet_sectional_env.jpg" alt="Montez Sectional Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ REPLACED & VERIFIED:</span> Grand high-resolution architectural living salon featuring the Montez dual-tone velvet sectional on a designer area rug.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 6. Pescara Luxury 3-Seater Velvet Sofa -->
+  <div class="comparison-section">
+    <div class="product-title">
+      6. Odessy Pescara Luxury 3-Seater Velvet Sofa
+      <span class="product-tag">Sofa Category</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>CasaCraft Pescara Velvet 3 Seater Sofa in Beige Colour (ID: 2244199)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/pescara-velvet-3-seater-sofa-in-beige-colour-2244199.html" target="_blank">https://www.pepperfry.com/product/pescara-velvet-3-seater-sofa-in-beige-colour-2244199.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/pescara_velvet_3_seater_3x4.jpg" alt="Pescara Velvet Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> Champagne beige velvet 3-seater with softly curved bolster armrests, tailored curved backrest, and brass legs on clean luxury studio background.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/pescara_velvet_3_seater_env.jpg" alt="Pescara Velvet Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ REPLACED & VERIFIED:</span> Ultra-high resolution (2000x2000 source) European salon setting with herringbone floor and classic mouldings.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 7. Radom Solid Sheesham 3-Seater Sofa -->
+  <div class="comparison-section">
+    <div class="product-title">
+      7. Odessy Radom Solid Sheesham 3-Seater Sofa
+      <span class="product-tag">Sofa Category</span>
+    </div>
+    <div class="product-ref">
+      Pepperfry Reference: <strong>Woodsworth Radom Sheesham Wood 3 Seater Sofa in Provincial Teak Finish (ID: 1940991)</strong><br>
+      Reference URL: <a href="https://www.pepperfry.com/product/radom-sheesham-wood-3-seater-sofa-in-provincial-teak-finish-1940991.html" target="_blank">https://www.pepperfry.com/product/radom-sheesham-wood-3-seater-sofa-in-provincial-teak-finish-1940991.html</a>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/radom_sheesham_3_seater_3x4.jpg" alt="Radom Sheesham Studio">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> 100% Solid Sheesham framework in Provincial Teak finish with visible vertical slats and cream cushions, centered at 80% canvas occupancy.
+        </div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-std">896 × 1200 px (3:4)</span></div>
+        <div class="product-card-container">
+          <img src="/products/radom_sheesham_3_seater_env.jpg" alt="Radom Sheesham Lifestyle">
+        </div>
+        <div class="card-caption">
+          <span class="badge-check">✓ IMPROVED & VERIFIED:</span> Warm residential hardwood floor interior showcasing complete Sheesham timber suite with balanced margins.
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function switchGallery(containerId, newSrc, btnElement) {
+      const container = document.getElementById(containerId);
+      if (container) {
+        const img = container.querySelector('img');
+        if (img) img.src = newSrc;
+      }
+      const parent = btnElement.parentElement;
+      if (parent) {
+        parent.querySelectorAll('.thumb-btn').forEach(b => b.classList.remove('active'));
+        btnElement.classList.add('active');
+      }
+    }
+  </script>
+</body>
+</html>

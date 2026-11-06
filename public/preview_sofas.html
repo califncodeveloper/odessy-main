@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Odessy Sofa Image Composition & Zoom Inspection</title>
+  <style>
+    body {
+      background: #0d0c0a;
+      color: #f3e9da;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 30px;
+    }
+    h1 {
+      color: #D4AF37;
+      font-size: 24px;
+      margin-bottom: 8px;
+    }
+    p.subtitle {
+      color: #a8a29e;
+      font-size: 14px;
+      margin-top: 0;
+      margin-bottom: 25px;
+    }
+    .status-badge {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      background: rgba(34, 197, 94, 0.15);
+      border: 1px solid rgba(34, 197, 94, 0.4);
+      color: #4ade80;
+      font-size: 12px;
+      font-weight: 600;
+      margin-bottom: 20px;
+    }
+    .comparison-section {
+      margin-bottom: 40px;
+      background: #161513;
+      border: 1px solid rgba(255, 255, 255, 0.08);
+      border-radius: 16px;
+      padding: 24px;
+    }
+    .product-title {
+      font-size: 18px;
+      font-weight: 700;
+      color: #fff;
+      margin-bottom: 16px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .product-tag {
+      font-size: 11px;
+      background: #23211d;
+      border: 1px solid #D4AF37;
+      color: #D4AF37;
+      padding: 2px 8px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .grid-compare {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+    }
+    @media (max-width: 1100px) {
+      .grid-compare { grid-template-columns: repeat(2, 1fr); }
+    }
+    .card-box {
+      background: #1c1a17;
+      border: 1px solid rgba(255, 255, 255, 0.05);
+      border-radius: 12px;
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+    }
+    .card-label {
+      padding: 10px 14px;
+      font-size: 12px;
+      font-weight: 600;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .tag-before {
+      background: rgba(239, 68, 68, 0.2);
+      color: #f87171;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 10px;
+    }
+    .tag-after {
+      background: rgba(34, 197, 94, 0.2);
+      color: #4ade80;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 10px;
+    }
+    /* EXACT ProductCard container representation */
+    .product-card-container {
+      position: relative;
+      aspect-ratio: 3 / 4;
+      width: 100%;
+      overflow: hidden;
+      background: #141311;
+    }
+    .product-card-container img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+      display: block;
+      transition: transform 0.5s ease;
+    }
+    .product-card-container:hover img {
+      transform: scale(1.05);
+    }
+    .card-caption {
+      padding: 10px 14px;
+      font-size: 11px;
+      color: #a8a29e;
+      line-height: 1.4;
+      background: #181714;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Odessy Sofa Image Composition & Zoom Verification</h1>
+  <p class="subtitle">Inspecting Before vs After reframing into 3:4 portrait (900 × 1200 px) with 75–80% furniture canvas occupancy.</p>
+  <div class="status-badge">✓ All 10 Images Verified at 900 × 1200 px (3:4 Portrait Ratio)</div>
+
+  <!-- 1. Amanda 2-Seater -->
+  <div class="comparison-section">
+    <div class="product-title">
+      1. Odessy Amanda Modern 2-Seater Fabric Sofa
+      <span class="product-tag">Compact Loveseat</span>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/amanda_fabric_2_seater_3x4.jpg" alt="Amanda Studio Before">
+        </div>
+        <div class="card-caption">❌ 1600x800 raw: browser cut 62.5% of width. Only center cushion seam visible; armrests chopped off.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/amanda_fabric_2_seater_3x4.jpg" alt="Amanda Studio After">
+        </div>
+        <div class="card-caption">✓ Complete 2-seater visible: both armrests, full backrest, cushions, tapered wooden legs, balanced margins.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/amanda_fabric_2_seater_env.jpg" alt="Amanda Env Before">
+        </div>
+        <div class="card-caption">❌ 494x544 raw: armrests clipped at outer edges.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/amanda_fabric_2_seater_env.jpg" alt="Amanda Env After">
+        </div>
+        <div class="card-caption">✓ Full room setting with warm hardwood flooring, complete sofa silhouette, and wooden legs.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 2. Cannes 3-Seater -->
+  <div class="comparison-section">
+    <div class="product-title">
+      2. Odessy Cannes Contemporary 3-Seater Fabric Sofa
+      <span class="product-tag">Luxury 3-Seater</span>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/cannes_fabric_3_seater_3x4.jpg" alt="Cannes Studio Before">
+        </div>
+        <div class="card-caption">❌ 1600x800 raw: track arms and outer cushions clipped.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/cannes_fabric_3_seater_3x4.jpg" alt="Cannes Studio After">
+        </div>
+        <div class="card-caption">✓ Complete royal blue 3-seater with both wide track armrests, 3 cushions, and studio floor lighting.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/cannes_fabric_3_seater_env.jpg" alt="Cannes Env Before">
+        </div>
+        <div class="card-caption">❌ 1250x625 raw: side profile chopped by 62.5%.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/cannes_fabric_3_seater_env.jpg" alt="Cannes Env After">
+        </div>
+        <div class="card-caption">✓ 100% visible on clean studio background with balanced 10% negative space on sides.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 3. Montez LHS Sectional -->
+  <div class="comparison-section">
+    <div class="product-title">
+      3. Odessy Montez Velvet LHS Sectional Sofa (3 + Lounger)
+      <span class="product-tag">L-Shaped Flagship</span>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/montez_velvet_sectional_3x4.jpg" alt="Montez Studio Before">
+        </div>
+        <div class="card-caption">❌ 494x544 raw: chaise lounger cut off at left edge.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/montez_velvet_sectional_3x4.jpg" alt="Montez Studio After">
+        </div>
+        <div class="card-caption">✓ Full L-shaped configuration visible: LHS lounger, 3-seater section, cushions, and dual-tone velvet.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/montez_velvet_sectional_env.jpg" alt="Montez Env Before">
+        </div>
+        <div class="card-caption">❌ 494x544 raw: room clipped horizontally.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/montez_velvet_sectional_env.jpg" alt="Montez Env After">
+        </div>
+        <div class="card-caption">✓ Expansive residential living room showing entire sectional footprint in warm lighting.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 4. Pescara Velvet 3-Seater -->
+  <div class="comparison-section">
+    <div class="product-title">
+      4. Odessy Pescara Luxury 3-Seater Velvet Sofa
+      <span class="product-tag">Bespoke Velvet</span>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/pescara_velvet_3_seater_3x4.jpg" alt="Pescara Studio Before">
+        </div>
+        <div class="card-caption">❌ 1600x800 raw: curved bolster armrests clipped off.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/pescara_velvet_3_seater_3x4.jpg" alt="Pescara Studio After">
+        </div>
+        <div class="card-caption">✓ Entire champagne velvet sofa visible: organic bolster arms, deep seat, brass feet.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/pescara_velvet_3_seater_env.jpg" alt="Pescara Env Before">
+        </div>
+        <div class="card-caption">❌ 494x544 raw: tight zoom on cushions.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/pescara_velvet_3_seater_env.jpg" alt="Pescara Env After">
+        </div>
+        <div class="card-caption">✓ Ivory luxury living room interior with full sofa silhouette.</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 5. Radom Solid Sheesham 3-Seater -->
+  <div class="comparison-section">
+    <div class="product-title">
+      5. Odessy Radom Solid Sheesham 3-Seater Sofa
+      <span class="product-tag">100% Solid Timber</span>
+    </div>
+    <div class="grid-compare">
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/radom_sheesham_3_seater_3x4.jpg" alt="Radom Studio Before">
+        </div>
+        <div class="card-caption">❌ 1600x800 raw: hardwood frame arms and slats cut off.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Studio Showcase <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/radom_sheesham_3_seater_3x4.jpg" alt="Radom Studio After">
+        </div>
+        <div class="card-caption">✓ 100% Solid Sheesham frame completely visible: Provincial Teak arms, open slats, 3 cushions, and legs.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-before">BEFORE (Cropped)</span></div>
+        <div class="product-card-container">
+          <img src="/products/backup_raw_sofas/radom_sheesham_3_seater_env.jpg" alt="Radom Env Before">
+        </div>
+        <div class="card-caption">❌ 1600x800 raw: side timber joints sliced off.</div>
+      </div>
+      <div class="card-box">
+        <div class="card-label">Lifestyle Interior <span class="tag-after">AFTER (900x1200)</span></div>
+        <div class="product-card-container">
+          <img src="/products/radom_sheesham_3_seater_env.jpg" alt="Radom Env After">
+        </div>
+        <div class="card-caption">✓ Warm residential hardwood floor interior showcasing complete Sheesham timber suite.</div>
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>

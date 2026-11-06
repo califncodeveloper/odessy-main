@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+public/products/backup_black_bg/
+*Zone.Identifier*
+__pycache__/
+*.py[cod]
+scratch/
+
+
