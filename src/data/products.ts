@@ -973,10 +973,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 52,
     badge: 'Handcrafted Sheesham',
     isBestSeller: true,
-    image: '/products/dining-table-siramika-sheesham-4-seater.webp',
+    image: '/products/dining-table-siramika-sheesham-4-seater.jpeg',
     gallery: [
-      '/products/dining-table-siramika-sheesham-4-seater.webp',
-      '/products/dining-table-siramika-sheesham-4-seater-env.webp'
+      '/products/dining-table-siramika-sheesham-4-seater.jpeg',
+      '/products/dining-table-siramika-sheesham-4-seater-env.jpeg'
     ],
     description: 'Inspired by Mudramark\'s Siramika collection: handcrafted solid Sheesham wood 4-seater dining set in a warm Provincial Teak finish. Built from 100% seasoned Indian rosewood with traditional mortise-and-tenon joints, featuring four ergonomically proportioned dining chairs for compact modern urban homes.',
     features: [
@@ -1026,10 +1026,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 68,
     badge: 'High-Back Lumbar',
     isBestSeller: true,
-    image: '/products/dining-table-kentan-sheesham-4-seater.webp',
+    image: '/products/kentan_sheesham_4_seater_3x4.jpeg',
     gallery: [
-      '/products/dining-table-kentan-sheesham-4-seater.webp',
-      '/products/dining-table-kentan-sheesham-4-seater-env.webp'
+      '/products/kentan_sheesham_4_seater_3x4.jpeg',
+      '/products/kentan_sheesham_4_seater_env.jpeg'
     ],
     description: 'Inspired by Woodsworth\'s Kentan collection: a statement 4-seater dining set crafted from heavy-gauge solid Sheesham wood. Distinguishable by its architectural 102 cm tall slatted high backrests offering superior thoracic posture support, paired with a solid 114 cm timber dining table.',
     features: [
@@ -1077,10 +1077,10 @@ export const PRODUCTS: Product[] = [
     rating: 4.87,
     reviewsCount: 43,
     badge: 'Best Value Hardwood',
-    image: '/products/dining-table-marin-sheesham-4-seater.webp',
+    image: '/products/marin_sheesham_4_seater_3x4.jpeg',
     gallery: [
-      '/products/dining-table-marin-sheesham-4-seater.webp',
-      '/products/dining-table-marin-sheesham-4-seater-env.webp'
+      '/products/marin_sheesham_4_seater_3x4.jpeg',
+      '/products/marin_sheesham_4_seater_env.jpeg'
     ],
     description: 'Inspired by Woodsworth\'s Marin collection: clean-lined contemporary solid Sheesham wood 4-seater dining suite. Features a minimalist apron table profile and geometric grid-slatted dining chairs designed for space-conscious apartments and everyday dining.',
     features: [
@@ -1129,10 +1129,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 36,
     badge: 'Plush Cushion Seating',
     isNewArrival: true,
-    image: '/products/dining-table-bardu-sheesham-4-seater.webp',
+    image: '/products/bardu_sheesham_4_seater_3x4.png',
     gallery: [
-      '/products/dining-table-bardu-sheesham-4-seater.webp',
-      '/products/dining-table-bardu-sheesham-4-seater-env.webp'
+      '/products/bardu_sheesham_4_seater_3x4.png',
+      '/products/bardu_sheesham_4_seater_env.png'
     ],
     description: 'Inspired by Woodsworth\'s premium Bardu collection: a heavy timber 4-seater solid Sheesham wood suite paired with four deep-cushioned upholstered dining chairs. Combines substantial solid wood construction with high-resilience foam padding for luxurious extended dining comfort.',
     features: [
@@ -1182,10 +1182,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 58,
     badge: 'Porcelain Top Luxury',
     isNewArrival: true,
-    image: '/products/dining-table-amalfi-sheesham-6-seater.webp',
+    image: '/products/amalfi_sheesham_6_seater_3x4.jpeg',
     gallery: [
-      '/products/dining-table-amalfi-sheesham-6-seater.webp',
-      '/products/dining-table-amalfi-sheesham-6-seater-env.webp'
+      '/products/amalfi_sheesham_6_seater_3x4.jpeg',
+      '/products/amalfi_sheesham_6_seater_env.jpeg'
     ],
     description: 'Inspired by Woodsworth\'s flagship Amalfi collection: grand 6-seater dining set combining a solid Sheesham timber chassis with a heat-resistant, scratch-proof polished porcelain tabletop. Includes six matching solid Sheesham dining chairs with curved backrests and cushioned seating.',
     features: [
@@ -1235,10 +1235,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 47,
     badge: 'Compact Apartment Favorite',
     isBestSeller: true,
-    image: '/products/sofa-amanda-fabric-2-seater.webp',
+    image: '/products/amanda_fabric_2_seater_3x4.jpeg',
     gallery: [
-      '/products/sofa-amanda-fabric-2-seater.webp',
-      '/products/sofa-amanda-fabric-2-seater-env.webp'
+      '/products/amanda_fabric_2_seater_3x4.jpeg',
+      '/products/amanda_fabric_2_seater_env.png'
     ],
     description: 'Inspired by CasaCraft’s iconic Amanda collection: a tailored 2-seater loveseat sofa engineered for space-efficient contemporary living. Features heavy 400 GSM woven fabric upholstery, pocket spring seat cushioning with 28D high-resilience cold-cure foam, and a reinforced kiln-dried Red Meranti solid hardwood frame with tapered wood legs.',
     features: [
@@ -1290,10 +1290,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 64,
     badge: 'Luxury 3-Seater',
     isBestSeller: true,
-    image: '/products/sofa-cannes-fabric-3-seater.webp',
+    image: '/products/cannes_fabric_3_seater_3x4.jpeg',
     gallery: [
-      '/products/sofa-cannes-fabric-3-seater.webp',
-      '/products/sofa-cannes-fabric-3-seater-env.webp'
+      '/products/cannes_fabric_3_seater_3x4.jpeg',
+      '/products/cannes_fabric_3_seater_env.jpeg'
     ],
     description: 'Inspired by CasaCraft’s flagship Cannes 3-seater collection: an expansive, deep-lounge sofa wrapped in rich midnight blue 450 GSM woven polyester fabric. Features wide structured track armrests, multi-layer S-spring suspension with elastic webbing, and dual-density pure foam seat cushions (24D/28D/30D) with 120 mm thickness for plush, long-lasting support.',
     features: [
@@ -1345,10 +1345,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 52,
     badge: 'L-Shaped Sectional Flagship',
     isNewArrival: true,
-    image: '/products/sofa-montez-velvet-lhs-sectional.webp',
+    image: '/products/montez_velvet_sectional_3x4.jpeg',
     gallery: [
-      '/products/sofa-montez-velvet-lhs-sectional.webp',
-      '/products/sofa-montez-velvet-lhs-sectional-env.webp'
+      '/products/montez_velvet_sectional_3x4.jpeg',
+      '/products/montez_velvet_sectional_env.jpeg'
     ],
     description: 'Inspired by CasaCraft’s flagship Montez L-shaped sectional collection: an expansive 3-seater plus left-hand chaise lounger sofa upholstered in opulent dual-tone velvet fabric. Built on a heavy Red Meranti solid hardwood frame with reinforced joints, 32D high-resilience foam, pocket coil core, and tailored lumbar cushions for grand living rooms.',
     features: [
@@ -1399,10 +1399,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 39,
     badge: 'Premium Velvet Luxury',
     isNewArrival: true,
-    image: '/products/sofa-pescara-velvet-3-seater.webp',
+    image: '/products/pescara_velvet_3_seater_3x4.jpeg',
     gallery: [
-      '/products/sofa-pescara-velvet-3-seater.webp',
-      '/products/sofa-pescara-velvet-3-seater-env.webp'
+      '/products/pescara_velvet_3_seater_3x4.jpeg',
+      '/products/pescara_velvet_3_seater_env.jpeg'
     ],
     description: 'Inspired by CasaCraft’s bespoke Pescara collection: a sumptuous 3-seater sofa draped in shimmering anti-pilling velvet fabric. Features softly curved bolster armrests, continuous deep seat cushioning over pocket springs and 32D cold-cure foam, and a reinforced commercial-grade solid wood chassis with brushed champagne brass accent feet.',
     features: [
@@ -1454,10 +1454,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 51,
     badge: '100% Solid Timber',
     isBestSeller: true,
-    image: '/products/sofa-radom-sheesham-3-seater.webp',
+    image: '/products/radom_sheesham_3_seater_3x4.jpeg',
     gallery: [
-      '/products/sofa-radom-sheesham-3-seater.webp',
-      '/products/sofa-radom-sheesham-3-seater-env.webp'
+      '/products/radom_sheesham_3_seater_3x4.jpeg',
+      '/products/radom_sheesham_3_seater_env.jpeg'
     ],
     description: 'Inspired by Woodsworth’s timeless Radom collection: an authentic 100% solid Sheesham wood (Indian Rosewood) 3-seater sofa framed with traditional mortise-and-tenon craftsmanship in Provincial Teak finish. Paired with 100 mm thick 32 kg/m³ high-resilience cold-cure foam seat cushions and ergonomic fiber backrest pillows in removable, washable textured linen-cotton fabric.',
     features: [
@@ -1509,10 +1509,11 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 64,
     badge: 'Master Suite King',
     isBestSeller: true,
-    image: '/products/bed-marlow-sheesham-king-size.webp',
+    image: '/products/marlow_sheesham_king_bed_3x4.jpeg',
     gallery: [
-      '/products/bed-marlow-sheesham-king-size.webp',
-      '/products/bed-marlow-sheesham-king-size-env.webp'
+      '/products/marlow_sheesham_king_bed_3x4.jpeg',
+      '/products/marlow_sheesham_king_bed_env.jpeg',
+      '/products/bed-marlow-sheesham-king-size.png'
     ],
     description: 'Inspired by Amberville’s classic Marlow collection: a grand king-size bedstead handcrafted from 100% seasoned solid Sheesham wood (Indian Rosewood). Features an architectural slatted timber headboard, heavy structural side rails, and high-capacity compartmentalized box storage underneath to organize quilts, pillows, and extra bedding effortlessly.',
     features: [
@@ -1562,10 +1563,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 58,
     badge: 'Apartment Favorite',
     isBestSeller: true,
-    image: '/products/bed-tulsa-sheesham-queen-size.webp',
+    image: '/products/bed-tulsa-sheesham-queen-size.png',
     gallery: [
-      '/products/bed-tulsa-sheesham-queen-size.webp',
-      '/products/bed-tulsa-sheesham-queen-size-env.webp'
+      '/products/bed-tulsa-sheesham-queen-size.png',
+      '/products/bed-tulsa-sheesham-queen-size-env.png'
     ],
     description: 'Inspired by Woodsworth’s iconic Tulsa collection: an elegant queen-size storage bed sculpted from solid kiln-dried Sheesham hardwood in a lustrous Provincial Teak finish. Designed for modern urban apartments, featuring 4 generous box storage quadrants with high load capacity and a clean-lined wooden paneled headboard.',
     features: [
@@ -1615,10 +1616,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 71,
     badge: 'Effortless Gas-Lift',
     isBestSeller: true,
-    image: '/products/bed-zephyr-sheesham-hydraulic.webp',
+    image: '/products/bed-zephyr-sheesham-hydraulic.png',
     gallery: [
-      '/products/bed-zephyr-sheesham-hydraulic.webp',
-      '/products/bed-zephyr-sheesham-hydraulic-env.webp'
+      '/products/bed-zephyr-sheesham-hydraulic.png',
+      '/products/bed-zephyr-sheesham-hydraulic-env.png'
     ],
     description: 'Inspired by Woodsworth’s flagship Zephyr collection: a luxury king-size bed crafted from solid Sheesham wood fitted with premium German-engineered gas-lift hydraulic struts. Allows effortless single-handed lifting of the mattress base to access full-length uninterrupted underbed storage without moving the bedding.',
     features: [
@@ -1667,10 +1668,10 @@ export const PRODUCTS: Product[] = [
     rating: 4.91,
     reviewsCount: 43,
     badge: 'Full-Length Mirror',
-    image: '/products/wardrobe-eternia-modern-3-door.webp',
+    image: '/products/eternia_modern_3_door_wardrobe_3x4.jpeg',
     gallery: [
-      '/products/wardrobe-eternia-modern-3-door.webp',
-      '/products/wardrobe-eternia-modern-3-door-env.webp'
+      '/products/eternia_modern_3_door_wardrobe_3x4.jpeg',
+      '/products/eternia_modern_3_door_wardrobe_env.jpeg'
     ],
     description: 'Inspired by Spacewood’s Kosmo Eternia collection: an architecturally proportioned 3-door wardrobe crafted from high-density engineered wood in a sophisticated Modern Ash finish. Incorporates a central full-length dressing mirror, internal security locker drawer with lock & key, full-drop hanging section, and multi-tier shelving.',
     features: [
@@ -1720,10 +1721,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 62,
     badge: 'Spacious Family Storage',
     isBestSeller: true,
-    image: '/products/wardrobe-verta-modern-4-door.webp',
+    image: '/products/verta_modern_4_door_wardrobe_3x4.jpeg',
     gallery: [
-      '/products/wardrobe-verta-modern-4-door.webp',
-      '/products/wardrobe-verta-modern-4-door-env.webp'
+      '/products/verta_modern_4_door_wardrobe_3x4.jpeg',
+      '/products/verta_modern_4_door_wardrobe_env.jpeg'
     ],
     description: 'Inspired by Spacewood’s Verta collection: an expansive 4-door wardrobe in a warm Santana Oak finish designed for comprehensive family bedroom organization. Features dual full-length center mirrors, two external smooth-glide pull-out drawers, twin heavy-duty garment hanging zones, and 8 deep partitioned shelves.',
     features: [
@@ -1773,10 +1774,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 58,
     badge: 'Master Teak Sanctum',
     isBestSeller: true,
-    image: '/products/pooja-mandir-dzyn-traditional-teak.webp',
+    image: '/products/dzyn_traditional_teak_mandir_3x4.jpg',
     gallery: [
-      '/products/pooja-mandir-dzyn-traditional-teak.webp',
-      '/products/pooja-mandir-dzyn-traditional-teak-env.webp'
+      '/products/dzyn_traditional_teak_mandir_3x4.jpg',
+      '/products/dzyn_traditional_teak_mandir_env.jpg'
     ],
     description: 'Inspired by DZYN Furnitures’ flagship Aadhyaatmik sanctum: a grand floor-rested pooja temple handcrafted from 100% seasoned Burma Teak Wood in a deep warm brown lustrous finish. Crowned with an architectural tiered Shikhara dome and traditional brass kalash finial, it features two carved front lattice doors with brass mesh, heavy fluted temple pillars, a pull-out brass/teak diya tray, and a high-capacity double-door cabinet below to store all spiritual accessories, pooja books, and brassware.',
     features: [
@@ -1829,10 +1830,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 73,
     badge: 'Modern Backlit Sanctum',
     isBestSeller: true,
-    image: '/products/pooja-mandir-decorsmart-modern-laser-cut.webp',
+    image: '/products/decorsmart_modern_pooja_cabinet_3x4.jpeg',
     gallery: [
-      '/products/pooja-mandir-decorsmart-modern-laser-cut.webp',
-      '/products/pooja-mandir-decorsmart-modern-laser-cut-env.webp'
+      '/products/decorsmart_modern_pooja_cabinet_3x4.jpeg',
+      '/products/decorsmart_modern_pooja_cabinet_env.jpeg'
     ],
     description: 'Inspired by Decor Smart’s acclaimed laser-cut temple design: a modern architectural pooja unit crafted from high-density engineered wood in a crisp matte white aesthetic. Features an illuminated rear backlit panel with intricate precision CNC laser-cut spiritual jali motifs and warm ambient LED lighting. Includes an elevated idol platform, pull-out brass diya shelf, and a large double-door bottom cabinet for holy books, oils, and pooja essentials.',
     features: [
@@ -1885,10 +1886,10 @@ export const PRODUCTS: Product[] = [
     badge: 'Space Saver Wall Mount',
     isBestSeller: false,
     isNewArrival: true,
-    image: '/products/pooja-mandir-alaya-wall-mount.webp',
+    image: '/products/alaya_wall_mount_mandir_3x4.png',
     gallery: [
-      '/products/pooja-mandir-alaya-wall-mount.webp',
-      '/products/pooja-mandir-alaya-wall-mount-env.webp'
+      '/products/alaya_wall_mount_mandir_3x4.png',
+      '/products/alaya_wall_mount_mandir_env.jpeg'
     ],
     description: 'Inspired by DZYN Furnitures’ Alaya series: a compact, sacred wall-mounted mandir thoughtfully handcrafted for space-conscious apartments. Crafted from solid hardwood and teak composite in a lustrous brown finish with hand-painted gold relief detailing. Crowned with an auspicious shikhara dome and brass kalash, the unit features graceful side jali balustrades, an elevated deity riser, and a smooth bottom pull-out drawer with an antique brass knob for matches, incense, and wick organizers.',
     features: [
@@ -1940,10 +1941,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 92,
     badge: 'Sacred Heritage Edition',
     isBestSeller: true,
-    image: '/products/pooja-mandir-sacred-home-designer.webp',
+    image: '/products/sacred_home_designer_mandir_3x4.jpeg',
     gallery: [
-      '/products/pooja-mandir-sacred-home-designer.webp',
-      '/products/pooja-mandir-sacred-home-designer-env.webp'
+      '/products/sacred_home_designer_mandir_3x4.jpeg',
+      '/products/sacred_home_designer_mandir_env.jpeg'
     ],
     description: 'Inspired by DZYN Furnitures’ iconic Sacred Home collection: a masterwork of Indian temple craftsmanship in solid Teak wood. Features a magnificent ornamental archway flanked by sculpted temple pillars with carved elephant guardian pedestals. The sanctum features two folding latticed jali doors with brass hardware, an auspicious tiered shikhara with kalash pinnacle, two heavy-duty storage drawers, and a pull-out brass/teak prasad tray for peaceful daily worship.',
     features: [
@@ -1996,10 +1997,10 @@ export const PRODUCTS: Product[] = [
     badge: 'Urban Apartment Favorite',
     isBestSeller: false,
     isNewArrival: true,
-    image: '/products/pooja-mandir-bluewud-shubh-apartment.webp',
+    image: '/products/bluewud_shubh_pooja_stand_3x4.jpg',
     gallery: [
-      '/products/pooja-mandir-bluewud-shubh-apartment.webp',
-      '/products/pooja-mandir-bluewud-shubh-apartment-env.webp'
+      '/products/bluewud_shubh_pooja_stand_3x4.jpg',
+      '/products/bluewud_shubh_pooja_stand_env.jpg'
     ],
     description: 'Inspired by Bluewud’s top-selling Shubh apartment series: a 5-foot tall vertical floor-standing mandir engineered specifically for urban homes and apartments where floor space is premium. Crafted from heavy-grade Action TESA engineered wood in a warm Wenge and European Oak dual-tone finish. Features a central sanctum with safety railing, multiple side display shelves for idols and brass bells, a pull-out diya tray, and a spacious bottom storage cabinet to keep pooja samagri organized.',
     features: [
@@ -2053,10 +2054,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 64,
     badge: 'Best Value 2-Door',
     isBestSeller: true,
-    image: '/products/steel-bureau-godrej-slimline-2-door.webp',
+    image: '/products/godrej_slimline_2_door_almirah_3x4.jpeg',
     gallery: [
-      '/products/steel-bureau-godrej-slimline-2-door.webp',
-      '/products/steel-bureau-godrej-slimline-2-door-env.webp'
+      '/products/godrej_slimline_2_door_almirah_3x4.jpeg',
+      '/products/godrej_slimline_2_door_almirah_env.jpeg'
     ],
     description: 'Inspired by Godrej Interio’s iconic Slimline series: an ultra-durable two-door metal almirah engineered from premium high-tensile CRCA steel sheets. Finished in a modern powder-coated Frost Grey anti-corrosive finish, it provides complete rust protection and longevity. The cabinet features dual full-length doors with an ergonomic recessed flush handle, unpickable multi-lever cylinder key lock, full-width chrome hanging rod, configurable internal shelves, and an elevated plinth base to safeguard against floor moisture.',
     features: [
@@ -2109,10 +2110,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 82,
     badge: 'Grand 3-Door',
     isBestSeller: true,
-    image: '/products/steel-bureau-godrej-slimline-3-door.webp',
+    image: '/products/godrej_slimline_3_door_almirah_3x4.jpeg',
     gallery: [
-      '/products/steel-bureau-godrej-slimline-3-door.webp',
-      '/products/steel-bureau-godrej-slimline-3-door-env.webp'
+      '/products/godrej_slimline_3_door_almirah_3x4.jpeg',
+      '/products/godrej_slimline_3_door_almirah_env.jpeg'
     ],
     description: 'Inspired by Godrej Interio’s premier 3-door Slimline wardrobe: an extra-capacity metal storage bureau crafted from heavy-duty CRCA steel in a deep Textured Ultra Marine Blue finish. Engineered for extensive family wardrobes, it incorporates a full-length dressing mirror on the left wing, dual recessed slam-shut locking handles, an overhead safety locker vault with independent key lock, 5 multi-tier folded apparel compartments, and a spacious hanging wardrobe section.',
     features: [
@@ -2165,10 +2166,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 71,
     badge: 'Locker Vault',
     isBestSeller: true,
-    image: '/products/steel-bureau-godrej-slimline-locker-red.webp',
+    image: '/products/godrej_slimline_internal_locker_wardrobe_3x4.jpeg',
     gallery: [
-      '/products/steel-bureau-godrej-slimline-locker-red.webp',
-      '/products/steel-bureau-godrej-slimline-locker-red-env.webp'
+      '/products/godrej_slimline_internal_locker_wardrobe_3x4.jpeg',
+      '/products/godrej_slimline_internal_locker_wardrobe_env.jpeg'
     ],
     description: 'Inspired by Godrej Interio’s top-selling Slimline Two Door Wardrobe with Locker and Drawer: an eye-catching metal wardrobe in an expressive Coral Red and warm ivory frame. Features an integrated private safe-vault locker compartment with independent locking mechanism, dedicated hanging bar for everyday clothes, folded garments shelf, base luggage/suitcase trunk compartment, and elevated moisture-resistant steel leg plinth.',
     features: [
@@ -2221,10 +2222,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 95,
     badge: 'Full Mirror Dressing',
     isBestSeller: true,
-    image: '/products/steel-bureau-godrej-slimline-mirror-purple.webp',
+    image: '/products/godrej_slimline_mirror_wardrobe_3x4.jpeg',
     gallery: [
-      '/products/steel-bureau-godrej-slimline-mirror-purple.webp',
-      '/products/steel-bureau-godrej-slimline-mirror-purple-env.webp'
+      '/products/godrej_slimline_mirror_wardrobe_3x4.jpeg',
+      '/products/godrej_slimline_mirror_wardrobe_env.jpeg'
     ],
     description: 'Inspired by Godrej Interio’s acclaimed Slimline mirror wardrobe edition: an elegant 2-door steel bureau featuring an integrated distortion-free curvy full-length dressing mirror on the front door. Finished in a rich textured berry purple and clean silver accents, it includes a private internal safe locker, 4 multi-tier organized shelving sections, and a solid moisture-barrier plinth base, combining a daily dressing station with robust metal security.',
     features: [
@@ -2277,10 +2278,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 49,
     badge: 'Flagship Luxury',
     isBestSeller: true,
-    image: '/products/steel-bureau-godrej-centurion-luxury-burgundy.webp',
+    image: '/products/godrej_centurion_luxury_almirah_3x4.jpeg',
     gallery: [
-      '/products/steel-bureau-godrej-centurion-luxury-burgundy.webp',
-      '/products/steel-bureau-godrej-centurion-luxury-burgundy-env.webp'
+      '/products/godrej_centurion_luxury_almirah_3x4.jpeg',
+      '/products/godrej_centurion_luxury_almirah_env.jpeg'
     ],
     description: 'Inspired by Godrej Interio’s luxury flagship Centurion series: an opulent 2-door modern metal almirah crafted from heavy-gauge prime CRCA steel in a striking Royal Burgundy / Chocolate finish. Boasts a sleek contemporary horizontal door handle, concealed smart motion-sensor LED internal illumination that automatically lights up when doors open, a private high-security jewelry locker, full hanging wardrobe wing, and high-capacity shelving.',
     features: [
@@ -2334,10 +2335,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 78,
     badge: 'Bestseller Single',
     isBestSeller: true,
-    image: '/products/steel-cot-odessy-striker-single.webp',
+    image: '/products/odessy_striker_single_cot_3x4.jpeg',
     gallery: [
-      '/products/steel-cot-odessy-striker-single.webp',
-      '/products/steel-cot-odessy-striker-single-env.webp'
+      '/products/odessy_striker_single_cot_3x4.jpeg',
+      '/products/odessy_striker_single_cot_env.jpeg'
     ],
     description: 'Inspired by Nilkamal Sleep’s iconic Striker metal series: an ultra-durable single steel cot engineered with high-tensile tubular carbon steel and an advanced weight-sharing frame. Finished in a weather-resilient matte black powder coating, it offers unshakeable stability, anti-corrosive rust protection, and squeak-free sleep performance. Features a clean geometric vertical slat headboard, integrated low-profile foot rail, reinforced cross slats, and generous 28 cm under-bed floor clearance for effortless bedroom cleaning and under-bed luggage storage in modern Chennai homes.',
     features: [
@@ -2393,10 +2394,10 @@ export const PRODUCTS: Product[] = [
     rating: 4.87,
     reviewsCount: 52,
     badge: 'Compact Double',
-    image: '/products/steel-cot-odessy-akaba-double.webp',
+    image: '/products/odessy_akaba_double_cot_3x4.jpeg',
     gallery: [
-      '/products/steel-cot-odessy-akaba-double.webp',
-      '/products/steel-cot-odessy-akaba-double-env.webp'
+      '/products/odessy_akaba_double_cot_3x4.jpeg',
+      '/products/odessy_akaba_double_cot_env.jpeg'
     ],
     description: 'Inspired by FurnitureKraft’s acclaimed Metallika Akaba series: a heavy-gauge double metal cot forged from commercial-grade ERW mild steel tubing in an elegant Gunmetal Titanium Grey powder-coated finish. Features distinctive curved arch crown styling on both headboard and footboard with classic vertical spoke grills, dual longitudinal center support spines, and twin center floor struts. Perfectly dimensioned for compact urban bedrooms, guest suites, or studio apartments accommodating two adults comfortably with zero floor squeaks.',
     features: [
@@ -2453,10 +2454,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 65,
     badge: 'Queen Classic',
     isBestSeller: true,
-    image: '/products/steel-cot-odessy-kabul-queen-white.webp',
+    image: '/products/odessy_kabul_queen_bed_3x4.jpeg',
     gallery: [
-      '/products/steel-cot-odessy-kabul-queen-white.webp',
-      '/products/steel-cot-odessy-kabul-queen-white-env.webp'
+      '/products/odessy_kabul_queen_bed_3x4.jpeg',
+      '/products/odessy_kabul_queen_bed_env.jpeg'
     ],
     description: 'Inspired by FurnitureKraft’s top-rated Kabul collection: a stunning queen-size metal bed frame finished in high-luster Arctic White epoxy powder coating. Designed with a contemporary geometric ladder-grid headboard featuring smooth radius corners, matching low-profile footboard, and an extra-rigid platform foundation. Engineered with heavy-gauge phosphatized ERW steel tubes and reinforced with twin central structural spine beams and 4 central support posts, it comfortably accommodates queen mattresses directly without needing cumbersome plywood sheets.',
     features: [
@@ -2513,10 +2514,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 84,
     badge: 'Master King Suite',
     isBestSeller: true,
-    image: '/products/steel-cot-odessy-striker-king.webp',
+    image: '/products/odessy_striker_king_bed_3x4.jpeg',
     gallery: [
-      '/products/steel-cot-odessy-striker-king.webp',
-      '/products/steel-cot-odessy-striker-king-env.webp'
+      '/products/odessy_striker_king_bed_3x4.jpeg',
+      '/products/odessy_striker_king_bed_env.jpeg'
     ],
     description: 'Inspired by Nilkamal Sleep’s flagship Striker King collection: a grand king-size metal bedstead engineered from premium cold-rolled tubular carbon steel. Built with an expansive full-width horizontal architectural slat headboard, integrated low-profile foot rail, and a structural slat matrix featuring twin central spine rails and six heavy load-bearing ground struts. Tested to support up to 350 kg with flawless weight dispersion, providing unyielding silent support for premium king-size mattresses without squeaking or frame distortion.',
     features: [
@@ -2573,10 +2574,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 43,
     badge: 'Flagship Four-Poster',
     isBestSeller: true,
-    image: '/products/steel-cot-odessy-gemini-canopy-poster.webp',
+    image: '/products/odessy_gemini_poster_bed_3x4.jpeg',
     gallery: [
-      '/products/steel-cot-odessy-gemini-canopy-poster.webp',
-      '/products/steel-cot-odessy-gemini-canopy-poster-env.webp'
+      '/products/odessy_gemini_poster_bed_3x4.jpeg',
+      '/products/odessy_gemini_poster_bed_env.jpeg'
     ],
     description: 'Inspired by Homdec’s luxury Gemini collection: a magnificent 6.25-foot high four-poster metal canopy bed forged from extra-heavy structural wrought iron and cold-rolled carbon steel tubing in an artisanal Matte Obsidian Black finish. Boasts striking architectural geometric cross-braced headboard and footboard lattice frameworks with dual upper tie-rails and reinforced corner uprights. Includes a heavy steel cross-slat foundation platform supported by five central load-bearing stems capable of supporting up to 380 kg.',
     features: [
@@ -2634,10 +2635,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 84,
     badge: 'Solid Timber Classic',
     isBestSeller: true,
-    image: '/products/center-table-odessy-abbey-solid-wood2.webp',
+    image: '/products/odessy_abbey_solid_wood_coffee_table_3x4.jpeg',
     gallery: [
-      '/products/center-table-odessy-abbey-solid-wood2.webp',
-      '/products/center-table-odessy-abbey-solid-wood.webp'
+      '/products/odessy_abbey_solid_wood_coffee_table_3x4.jpeg',
+      '/products/odessy_abbey_solid_wood_coffee_table_env.jpeg'
     ],
     description: 'Inspired by Woodsworth’s iconic Abbey solid wood collection: a monumental rectangular center table handcrafted from 100% seasoned, kiln-dried Indian Sheesham wood (Dalbergia sissoo) in an exquisite Rustic Teak finish. Designed with clean architectural lines, heavy block corner legs, and a rich visible wood-grain plank tabletop. Features a generous full-length open slatted lower shelf for coffee table art books, magazines, and remotes, treated with climate-resilient multi-coat sealant engineered to withstand Chennai humidity without warping or surface rings.',
     features: [
@@ -2693,10 +2694,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 62,
     badge: 'Luxury Marble',
     isBestSeller: true,
-    image: '/products/center-table-odessy-zyra-marble2.webp',
+    image: '/products/odessy_zyra_marble_coffee_table_3x4.jpeg',
     gallery: [
-      '/products/center-table-odessy-zyra-marble2.webp',
-      '/products/center-table-odessy-zyra-marble.webp'
+      '/products/odessy_zyra_marble_coffee_table_3x4.jpeg',
+      '/products/odessy_zyra_marble_coffee_table_env.jpeg'
     ],
     description: 'Inspired by Royaloak’s flagship Zyra luxury collection: an opulent designer center table boasting an authentic polished Italian composite marble slab top paired with high-gloss warm walnut and cream lacquered base. Enhanced with inlaid champagne gold electroplated metal accents, this sculptural centerpiece features softly filleted rounded corners for family safety and two spacious seamlessly integrated concealed storage drawers on telescopic ball-bearing sliders for pristine, clutter-free living room entertaining.',
     features: [
@@ -2751,10 +2752,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 71,
     badge: 'Toughened Glass',
     isNewArrival: true,
-    image: '/products/center-table-odessy-valencia-glass-sheesham2.webp',
+    image: '/products/odessy_valencia_glass_coffee_table_3x4.jpeg',
     gallery: [
-      '/products/center-table-odessy-valencia-glass-sheesham2.webp',
-      '/products/center-table-odessy-valencia-glass-sheesham.webp'
+      '/products/odessy_valencia_glass_coffee_table_3x4.jpeg',
+      '/products/odessy_valencia_glass_coffee_table_env.jpeg'
     ],
     description: 'Inspired by Woodsworth’s renowned Valencia designer line: an architectural center table marrying the organic richness of kiln-dried Indian Sheesham hardwood with a flush-inset 8mm heavy-duty toughened beveled float glass top. The beveled glass reveals the handcrafted wood frame beneath while offering effortless cleaning and high scratch resistance. Equipped with two smooth sliding wooden drawers with integrated carved finger pulls and a lower open slatted shelf for magazines and art collections.',
     features: [
@@ -2809,10 +2810,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 58,
     badge: 'Modern Geometric',
     isNewArrival: true,
-    image: '/products/center-table-odessy-galliano-metal-gold2.webp',
+    image: '/products/odessy_galliano_metal_coffee_table_3x4.jpeg',
     gallery: [
-      '/products/center-table-odessy-galliano-metal-gold2.webp',
-      '/products/center-table-odessy-galliano-metal-gold.webp'
+      '/products/odessy_galliano_metal_coffee_table_3x4.jpeg',
+      '/products/odessy_galliano_metal_coffee_table_env.jpeg'
     ],
     description: 'Inspired by CasaCraft’s striking Galliano contemporary series: an architectural statement center table constructed from heavy-gauge ERW mild steel square tubing electroplated in a refined Brushed Matte Gold finish. Crowned with a heat, stain, and scratch-proof glazed Travertine / sintered porcelain stone slab, its open cantilevered geometric silhouette creates an airy, floating aesthetic that effortlessly anchors modern Chennai apartments and contemporary formal drawing rooms.',
     features: [
@@ -2867,10 +2868,10 @@ export const PRODUCTS: Product[] = [
     reviewsCount: 96,
     badge: '2-Piece Nesting Set',
     isBestSeller: true,
-    image: '/products/center-table-odessy-elvas-round-nesting2.webp',
+    image: '/products/odessy_elvas_nesting_coffee_table_3x4.jpeg',
     gallery: [
-      '/products/center-table-odessy-elvas-round-nesting2.webp',
-      '/products/center-table-odessy-elvas-round-nesting.webp'
+      '/products/odessy_elvas_nesting_coffee_table_3x4.jpeg',
+      '/products/odessy_elvas_nesting_coffee_table_env.jpeg'
     ],
     description: 'Inspired by CasaCraft’s iconic Elvas nesting collection: an ingenious 2-piece circular coffee table set engineered for flexible, multi-dimensional living room layouts. Crafted with curved high-tensile tubular carbon steel frames finished in weather-resilient matte black powder coating and topped with scratch-proof, stain-proof Calacatta White glazed porcelain slabs with delicate grey marble veining. The smaller table slides 100% underneath the larger table to conserve floor space or separates completely as an independent cocktail accent table when hosting guests.',
     features: [
@@ -2911,9 +2912,253 @@ export const PRODUCTS: Product[] = [
     inStock: true,
     leadTime: 'Same Day or Next Day Delivery in Chennai',
     warranty: '36 Months (3 Years) Manufacturer Warranty'
+  },
+  {
+    id: 'miranda-chenille-3-seater-sofa',
+    name: 'Odessy Miranda 3-Seater Chenille Fabric Sofa',
+    tagline: 'Pepperfry Woodsworth Inspired Deep-Seated Oatmeal Chenille Luxury Lounge Sofa',
+    category: 'furniture',
+    subcategory: 'Sofa',
+    price: 29999,
+    originalPrice: 45999,
+    currency: '₹',
+    rating: 4.92,
+    reviewsCount: 68,
+    badge: 'Trending Luxury',
+    isBestSeller: true,
+    image: '/products/sofa_miranda_chenille_3_seater_3x4.jpeg',
+    gallery: [
+      '/products/sofa_miranda_chenille_3_seater_3x4.jpeg',
+      '/products/sofa_miranda_chenille_3_seater_env.jpeg'
+    ],
+    description: 'Inspired by Woodsworth by Pepperfry, the Miranda 3-seater sofa combines timeless mid-century elegance with contemporary comfort. Upholstered in high-density textured oatmeal chenille fabric, it features deep dual-layer pocket-spring seating, tailored track armrests, and kiln-dried solid wood tapered legs.',
+    features: [
+      'High-tensile wear-resistant oatmeal chenille upholstery with soft breathable texture',
+      '32-density high-resilience foam core reinforced with pocket coil springs for sink-in comfort',
+      'Kiln-dried solid Sal wood internal framework with anti-sag serpentine spring foundation',
+      'Removable zipper cushion covers for easy dry-cleaning and maintenance',
+      'Sturdy angled solid wood tapered legs with floor-protecting nylon glides'
+    ],
+    specs: {
+      'Pepperfry Reference': 'Woodsworth by Pepperfry Miranda 3-Seater Sofa',
+      'Seating Capacity': '3 Seater',
+      'Primary Material': 'Premium Textured Chenille Fabric',
+      'Frame Material': 'Kiln-Dried Solid Sal Wood',
+      'Foam Density': '32 kg/m³ High Resilience Polyurethane',
+      'Leg Finish': 'Dark Walnut Solid Wood Tapered Legs',
+      'Delivery': 'Free Doorstep Delivery in Chennai'
+    },
+    dimensions: [
+      { label: 'Overall Dimensions (W x D x H)', value: '198.1 x 88.9 x 83.8 cm (78 x 35 x 33 in)' },
+      { label: 'Seat Height', value: '45.7 cm (18 in)' },
+      { label: 'Seat Depth', value: '58.4 cm (23 in)' }
+    ],
+    materials: ['High-Density Chenille Fabric', 'Solid Sal Wood Internal Frame', 'High-Resilience 32-D Foam', 'Walnut Wood Legs'],
+    variants: [
+      { name: 'Warm Oatmeal Cream', colorHex: '#E5DFD3', finishType: 'matte' },
+      { name: 'Midnight Charcoal Grey', colorHex: '#374151', finishType: 'matte' }
+    ],
+    inStock: true,
+    leadTime: 'Same Day or 2-Day Delivery in Chennai',
+    warranty: '36 Months (3 Years) Structural Warranty'
+  },
+  {
+    id: 'gramado-sheesham-center-table-4-pouffes',
+    name: 'Odessy Gramado Solid Sheesham Coffee Table with 4 Pouffes',
+    tagline: 'Pepperfry Woodsworth Inspired Solid Timber Centerpiece with 4 Tucked Ottoman Stools',
+    category: 'furniture',
+    subcategory: 'Center Table',
+    price: 18499,
+    originalPrice: 29999,
+    currency: '₹',
+    rating: 4.94,
+    reviewsCount: 92,
+    badge: 'Space Saver Choice',
+    isBestSeller: true,
+    image: '/products/center_table_gramado_sheesham_4_pouffes_3x4.jpeg',
+    gallery: [
+      '/products/center_table_gramado_sheesham_4_pouffes_3x4.jpeg',
+      '/products/center_table_gramado_sheesham_4_pouffes_env.jpeg'
+    ],
+    description: 'Inspired by Pepperfry’s bestselling Woodsworth Gramado series, this versatile square coffee table is handcrafted from 100% seasoned Indian Sheesham wood in Provincial Teak finish. Features an inset beveled tempered glass top and includes four cushioned square wooden pouffe stools that nest seamlessly under the table.',
+    features: [
+      '100% seasoned and kiln-dried Indian Sheesham wood with authentic grain character',
+      'Includes 4 cushioned matching solid Sheesham pouffes that slide flush underneath',
+      '8 mm toughened beveled safety glass tabletop resistant to thermal shock and spills',
+      'Multi-coat protective polyurethane lacquer resistant to daily water rings and heat',
+      'Space-saving multifunctional design ideal for entertaining guests in modern living rooms'
+    ],
+    specs: {
+      'Pepperfry Reference': 'Woodsworth Gramado Solid Wood Coffee Table with 4 Stools',
+      'Primary Material': '100% Solid Indian Sheesham Wood (Dalbergia sissoo)',
+      'Tabletop': '8 mm Beveled Toughened Safety Glass',
+      'Stool Count': '4 Upholstered Nested Pouffe Stools',
+      'Finish': 'Provincial Teak Lacquer',
+      'Delivery': 'Free Doorstep Delivery in Chennai'
+    },
+    dimensions: [
+      { label: 'Table (L x W x H)', value: '88.9 x 88.9 x 45.7 cm (35 x 35 x 18 in)' },
+      { label: 'Each Pouffe (L x W x H)', value: '38.1 x 38.1 x 35.5 cm (15 x 15 x 14 in)' },
+      { label: 'Glass Thickness', value: '8 mm Toughened' }
+    ],
+    materials: ['Solid Sheesham Wood', 'Toughened Tempered Glass', 'Cushioned Fabric Upholstery'],
+    variants: [
+      { name: 'Provincial Teak with Cream Cushions', colorHex: '#6B3E26', finishType: 'wood' },
+      { name: 'Honey Oak with Beige Cushions', colorHex: '#9A6324', finishType: 'wood' }
+    ],
+    inStock: true,
+    leadTime: 'Ships in 2 - 3 Days across Chennai',
+    warranty: '36 Months (3 Years) Manufacturer Warranty'
+  },
+  {
+    id: 'denzel-sheesham-king-storage-bed',
+    name: 'Odessy Denzel Solid Sheesham King Bed with Box Storage',
+    tagline: 'Pepperfry Woodsworth Inspired Architectural Panelled Solid Hardwood Platform Bed',
+    category: 'furniture',
+    subcategory: 'Beds and Wardrobe',
+    price: 44999,
+    originalPrice: 69999,
+    currency: '₹',
+    rating: 4.9,
+    reviewsCount: 57,
+    badge: 'Solid Timber Flagship',
+    isBestSeller: true,
+    image: '/products/bed_denzel_sheesham_king_storage_3x4.jpeg',
+    gallery: [
+      '/products/bed_denzel_sheesham_king_storage_3x4.jpeg',
+      '/products/bed_denzel_sheesham_king_storage_env.jpeg'
+    ],
+    description: 'Inspired by Woodsworth by Pepperfry, the Denzel King Bed is handcrafted from 100% kiln-dried solid Sheesham wood in a rich Rustic Teak finish. Features an imposing geometric grooved panel headboard, heavy timber frame, and 4-compartment box storage underneath.',
+    features: [
+      'Crafted from 100% seasoned, termite-resistant Indian Sheesham hardwood',
+      'Tall architectural panelled headboard offering superior back support while sitting',
+      'Generous 4-compartment internal box storage under top-lift engineered timber panels',
+      'Rigid central steel spine with dual support legs ensuring lifetime squeak-free stability',
+      'Treated with moisture-repellent polyurethane lacquer suited for coastal humidity'
+    ],
+    specs: {
+      'Pepperfry Reference': 'Woodsworth Denzel Solid Wood King Bed with Storage',
+      'Bed Size': 'King Size (Fits 78 x 72 inch Mattress)',
+      'Primary Material': '100% Solid Indian Sheesham Wood (Dalbergia sissoo)',
+      'Storage Type': '4-Box Modular Under-Bed Storage',
+      'Finish': 'Rustic Teak Polyurethane Lustre',
+      'Assembly': 'Free Carpenter Installation in Chennai'
+    },
+    dimensions: [
+      { label: 'Overall Bed (L x W x H)', value: '208.3 x 193.0 x 106.7 cm (82 x 76 x 42 in)' },
+      { label: 'Headboard Height', value: '106.7 cm (42 in)' },
+      { label: 'Recommended Mattress Size', value: '198.1 x 182.9 cm (78 x 72 in)' }
+    ],
+    materials: ['100% Solid Sheesham Wood', 'Engineered Board Storage Decks', 'Heavy-Duty Hardware Joinery'],
+    variants: [
+      { name: 'Rustic Teak Finish', colorHex: '#4A2511', finishType: 'wood' },
+      { name: 'Provincial Teak Finish', colorHex: '#78350F', finishType: 'wood' }
+    ],
+    inStock: true,
+    leadTime: 'Ready for Fast Delivery & Installation in Chennai',
+    warranty: '36 Months (3 Years) Structural Warranty'
+  },
+  {
+    id: 'ananta-teak-wood-pooja-mandir',
+    name: 'Odessy Ananta Handcrafted Solid Teak Floor Pooja Mandir',
+    tagline: 'Pepperfry Mudramark Inspired Traditional Carved Temple with Dome, Jali & Drawers',
+    category: 'furniture',
+    subcategory: 'Pooja Stand',
+    price: 26999,
+    originalPrice: 39999,
+    currency: '₹',
+    rating: 4.96,
+    reviewsCount: 83,
+    badge: 'Devotional Classic',
+    isBestSeller: true,
+    image: '/products/pooja_mandir_ananta_teak_wood_3x4.jpg',
+    gallery: [
+      '/products/pooja_mandir_ananta_teak_wood_3x4.jpg',
+      '/products/pooja_mandir_ananta_teak_wood_env.jpeg'
+    ],
+    description: 'Inspired by Mudramark by Pepperfry, the Ananta floor-standing pooja mandir is carved from solid seasoned Teak wood with warm golden teak polish. Showcases a magnificent shikhar (dome) topped with a brass Kalash, geometric laser-cut jali side pillars, two spacious bottom drawers with antique brass pulls, and a pull-out diya and prasad tray.',
+    features: [
+      'Handcrafted from 100% seasoned, natural grain solid Teak wood',
+      'Traditional temple dome (Gopuram/Shikhar) adorned with an authentic solid brass Kalash',
+      'Laser-cut Jali side panels allowing serene ventilation of sacred incense and diya light',
+      'Two deep bottom storage drawers for pooja samagri, bells, diyas, and prayer books',
+      'Sturdy pull-out brass-knob slider tray for ghee lamps and holy offering prasad'
+    ],
+    specs: {
+      'Pepperfry Reference': 'Mudramark Ananta Solid Wood Floor Rested Mandir',
+      'Primary Material': '100% Solid Seasoned Teak Wood',
+      'Finish': 'Natural Golden Teak Hand-Rubbed Lacquer',
+      'Mounting': 'Floor Rested Sturdy Pedestal Base',
+      'Hardware': 'Solid Antique Brass Pulls & Kalash',
+      'Delivery': 'Free Insured Doorstep Delivery in Chennai'
+    },
+    dimensions: [
+      { label: 'Overall Dimensions (W x D x H)', value: '76.2 x 45.7 x 121.9 cm (30 x 18 x 48 in)' },
+      { label: 'Inner Sanctum Height', value: '61.0 cm (24 in)' },
+      { label: 'Base Drawer Height', value: '25.4 cm (10 in)' }
+    ],
+    materials: ['100% Solid Teak Wood', 'Solid Brass Kalash and Hardware', 'Moisture-Cured Natural Lacquer'],
+    variants: [
+      { name: 'Golden Teak Finish', colorHex: '#B45309', finishType: 'wood' },
+      { name: 'Rosewood Dark Walnut', colorHex: '#451A03', finishType: 'wood' }
+    ],
+    inStock: true,
+    leadTime: 'Ships in 2 - 4 Days across Chennai',
+    warranty: '36 Months (3 Years) Comprehensive Warranty'
+  },
+  {
+    id: 'clara-high-back-mesh-chair',
+    name: 'Odessy Clara Executive High-Back Mesh Ergonomic Chair',
+    tagline: 'Pepperfry Inspired Multi-Lock Synchronous Tilt with 2D Headrest & Polished Chrome Base',
+    category: 'furniture',
+    subcategory: 'Ergonomic Chairs',
+    price: 8499,
+    originalPrice: 12999,
+    currency: '₹',
+    rating: 4.93,
+    reviewsCount: 118,
+    badge: 'Executive Top Rated',
+    isBestSeller: true,
+    image: '/products/chair_clara_high_back_mesh_3x4.jpeg',
+    gallery: [
+      '/products/chair_clara_high_back_mesh_3x4.jpeg',
+      '/products/chair_clara_high_back_mesh_env.jpeg'
+    ],
+    description: 'Inspired by Pepperfry’s bestselling high-back executive chairs, the Clara combines breathable Korean nylon mesh with ergonomic adjustability. Features a dynamic spine-conforming lumbar cushion, 2D height and angle-adjustable headrest, 3D armrests, heavy-duty synchro-tilt mechanism, and a mirror-polished aluminum alloy star base.',
+    features: [
+      'Breathable tear-resistant Korean nylon mesh engineered for maximum airflow in tropical humidity',
+      'Adjustable 2D curved headrest supporting cervical spine alignment during extended work',
+      'Dynamic S-curve lumbar support conforming smoothly to natural lower back posture',
+      'Multi-lock synchro-tilt mechanism with 90° - 135° recline lock and tension adjustment',
+      'Class-4 heavy-duty hydraulic gas lift and mirror-polished cast aluminum alloy 5-star base'
+    ],
+    specs: {
+      'Pepperfry Reference': 'Clara High Back Ergonomic Mesh Office Chair',
+      'Primary Material': 'High-Tensile Korean Polymer Mesh',
+      'Mechanism': 'Synchro-Tilt with Multi-Angle Position Lock',
+      'Gas Lift': 'BIFMA Certified Class-4 Hydraulic Pneumatic',
+      'Base': 'Mirror-Polished Heavy Cast Aluminum 5-Star Base',
+      'Castors': '60 mm Twin Silent PU Castors (Floor-Safe)',
+      'Weight Capacity': '145 kg (320 lbs)',
+      'Delivery': 'Same Day Delivery & Assembly in Chennai'
+    },
+    dimensions: [
+      { label: 'Total Height Range', value: '118 - 128 cm (46.5 - 50.4 in)' },
+      { label: 'Seat Width x Depth', value: '52 x 50 cm (20.5 x 19.7 in)' },
+      { label: 'Seat Height Range', value: '46 - 56 cm (18.1 - 22.0 in)' },
+      { label: 'Star Base Diameter', value: '68 cm (26.8 in)' }
+    ],
+    materials: ['Reinforced Nylon Chassis', 'Breathable Polymer Mesh', 'Cast Aluminum Base', 'PU Soft Armrest Pads'],
+    variants: [
+      { name: 'Executive Obsidian Black', colorHex: '#18181B', finishType: 'mesh' },
+      { name: 'Platinum Grey with White Frame', colorHex: '#9CA3AF', finishType: 'mesh' }
+    ],
+    inStock: true,
+    leadTime: 'Same Day Delivery in Chennai',
+    warranty: '36 Months (3 Years) Warranty'
   }
-];
-
+];
+
 export const FURNITURE_SUBCATEGORIES: FurnitureSubcategory[] = [
   'Ergonomic Chairs',
   'Executive Chairs',
